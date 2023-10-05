@@ -1,0 +1,141 @@
+body 
+{
+  background-color: #F0F7F4;
+  font-weight: bold;
+  font-family: arial;
+  color: #3C493F;
+}
+
+
+main 
+{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.h1 
+{
+  text-align: center;
+}
+
+.navbar ul 
+{
+  list-style-type: none;
+  background-color: #3C493F;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.navbar a
+{
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+
+.navbar a:hover
+{
+  background-color: #6e7c72;
+  transition: background-color 1s;
+  border-radius: 10px;
+}
+
+
+.navbar li 
+{
+  float: left;
+}
+
+.navbar ul 
+{
+  border-radius: 10px;
+}
+
+.products 
+{
+  text-decoration: none;
+  color: #3C493F;
+  border-style: solid;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: x-large;
+  padding: 10px;
+  display: inline-block;
+}
+
+.products:hover 
+{
+  background-color: #3C493F;
+  color: #F0F7F4;
+  border-color: #3C493F;
+  border-style: solid;
+  transition: background-color 1s;
+
+}
+
+.tree 
+{
+width: 400px;
+}
+
+
+.buy 
+{
+border-style: solid;
+background-color: #F0F7F4;
+color: #3C493F;
+padding: 5px;
+border-radius: 10px;
+cursor: pointer;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: 0%;
+}
+
+.buy:hover 
+{
+  background-color: #3C493F;
+  color: #F0F7F4;
+  border-color: #3C493F;
+  border-style: solid;
+  transition: background-color 1s;
+}
+
+.main 
+{
+  display: inline-block;
+  margin-top: 0px;
+}
+
+.mains 
+{
+  margin-bottom: 0px;
+}
+
+.moplants 
+{
+  color: #3C493F;
+  font-size: xx-large;
+  width: 900px;
+}
+
+.greenplant
+{
+border-style: solid;
+width: 500px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 0%;
+border-radius: 10px;
+color: #3C493F;
+display: inline-block;
+margin-left: 20px;
+}
+
+.plant 
+{
+  width: 400px;
+}
